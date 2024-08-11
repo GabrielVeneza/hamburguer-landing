@@ -63,6 +63,9 @@ body{
     border-radius: 15px;
     padding: 6px;
 }
+.search .search-input:focus {
+    outline-color: var(--red);
+}
 
 .navigation i{
     cursor: pointer;
